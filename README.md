@@ -10,6 +10,8 @@ Now Renamed To:
 
   H^2 or hsq == Haskell on Hardware - translation to rtl verilog and vhdl for fpga implementation
 
+  Scala is progressing - using an fpga-based jvm coult provide a quick path to embedded use of this Hybrid Language
+  
 Some experiments that involve emulating long shift registers in block ram to simulate multiple serial stream processing.
 Manually developed verilog, systemc, vhdl and system verilog code fragments will be uploaded by end of January 2013
 Trying to provide a quantum or optical 'feel' that directly maps haskell onto fpga device features.
