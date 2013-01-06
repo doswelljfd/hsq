@@ -27,6 +27,5 @@ Dev Kits:
   Lattice MachXO2 Kit
   
 This has been hard to pull together because:
-  Technology keeps advancing
-  I am a perfectionist who thinks we should already have warp drive and transporter technology in place!
+  Technology keeps advancing and I am a perfectionist who thinks we should already have warp drive and transporter technology in place!
   
