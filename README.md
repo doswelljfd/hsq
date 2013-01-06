@@ -18,8 +18,10 @@ Manually developed verilog, systemc, vhdl and system verilog code fragments will
 
 An attempt to provide a quantum or optical 'feel' using structures that directly map haskell onto fpga device features.
 
-Altera Quartus II webpack supports a growing subset of SystemVerilog Module Features which will be utilized in subsequent
-versions of code fragments. Other development tools (ForSyDe, Vivaldo, etc) will be evaluated for use as back end tools.
+Altera Quartus II webpack supports a growing subset of SystemVerilog Module Features which will be utilized in
+subsequent versions of code fragments. QSys provides a vendor-specific, but rapid, method of implementing an SOC fabric.
+
+Other development tools (ForSyDe, Vivaldo, etc) will be evaluated for use as back end tools.
 
 Currently experimenting with Altera Qsys, verilator, and systemc. 
 Have also experimented with Xilinx ise and Lattice Diamond
