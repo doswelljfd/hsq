@@ -13,8 +13,10 @@ Now Renamed To:
   Scala is progressing - using an fpga-based jvm coult provide a quick path to embedded use of this Hybrid Language
   
 Some experiments that involve emulating long shift registers in block ram to simulate multiple serial stream processing.
+
 Manually developed verilog, systemc, vhdl and system verilog code fragments will be uploaded by end of January 2013
-Trying to provide a quantum or optical 'feel' that directly maps haskell onto fpga device features.
+
+An attempt to provide a quantum or optical 'feel' using structures that directly map haskell onto fpga device features.
 
 Altera Quartus II webpack supports a growing subset of SystemVerilog Module Features which will be utilized in subsequent
 versions of code fragments. Other development tools (ForSyDe, Vivaldo, etc) will be evaluated for use as back end tools.
