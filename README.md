@@ -22,7 +22,7 @@ Altera Quartus II webpack supports a growing subset of SystemVerilog Module Feat
 versions of code fragments. Other development tools (ForSyDe, Vivaldo, etc) will be evaluated for use as back end tools.
 
 Currently experimenting with Altera Qsys, verilator, and systemc. 
-Have also experiment with Xilinx ise and Lattice Diamond
+Have also experimented with Xilinx ise and Lattice Diamond
 
 Dev Kits:
   Avnet Spartan 3 Evaluation Kit
